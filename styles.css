@@ -8,6 +8,22 @@ h1, h2, h3, h4, h5, h6 {
     margin-left: 0.5rem;
 }
 
+p {
+    background-color: rgb(100%, 64.7%, 0%);
+    padding-left: 0.5rem;
+}
+
+span {
+    background-color: rgb(84.7%, 60.4%, 93.3%);
+    padding: 0 0.5rem;
+}
+
+q {
+    background-color: rgb(69.8%, 13.3%, 13.3%);
+    color: #fff;
+    padding: 0 0.5rem;
+}
+
 .top-section {
     background-color: rgb(0, 217, 255);
     padding-left: 0.5rem;

@@ -4,13 +4,31 @@ body {
     margin: 0;
 }
 
+header {
+    margin: 0;
+    padding-bottom: 0.5rem;
+}
+
+h1 {
+    padding-top: 0.5rem;
+}
+
 h1, h2, h3, h4, h5, h6 {
     margin-left: 0.5rem;
+    margin-top: 0;
 }
 
 p {
     background-color: rgb(100%, 64.7%, 0%);
+    margin: 0;
     padding-left: 0.5rem;
+}
+
+footer {
+    background-color: rgb(13.3%, 54.5%, 13.3%);
+    color: #fff;
+    padding: 5rem 0.5rem 0.5rem;
+    margin: 0;
 }
 
 span {
@@ -24,6 +42,25 @@ q {
     padding: 0 0.5rem;
 }
 
+code {
+    background-color: #000;
+    color: #fff;ß
+    padding: 0 0.5rem;
+}
+
+.by-dean {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 2rem;
+    background-color: #59405c;
+    color: #fff;
+    width: 100%;
+    margin: 0;
+    position: relative;
+    bottom: top;
+    padding: 3rem 0rem;
+}
+
 .top-section {
     background-color: rgb(0, 217, 255);
     padding-left: 0.5rem;
@@ -32,4 +69,8 @@ q {
 
 .headings {
     background-color: rgb(78.3%, 47.1%, 89.4%);
+}
+
+.sheep {
+    width: 10rem;
 }

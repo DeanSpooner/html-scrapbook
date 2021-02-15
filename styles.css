@@ -89,3 +89,18 @@ code {
 .headings {
     background-color: rgb(78.3%, 47.1%, 89.4%);
 }
+
+.container {
+    background-color: tomato;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.second {
+    background-color: yellow;
+}
+
+.third {
+border: solid #000 5px;
+}

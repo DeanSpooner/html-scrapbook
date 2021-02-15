@@ -24,6 +24,17 @@ p {
     padding-left: 0.5rem;
 }
 
+table, th, td {
+    border-collapse: collapse;
+    border-color: #000;
+    border-style: solid;
+    border-width: 3px;
+}
+
+table {
+    width: 100%;
+}
+
 footer {
     background-color: rgb(13.3%, 54.5%, 13.3%);
     color: #fff;
@@ -46,6 +57,14 @@ code {
     background-color: #000;
     color: #fff;ß
     padding: 0 0.5rem;
+}
+
+.pink-row {
+    background-color: rgb(95.6%, 49.6%, 75.7%);
+}
+
+.blue-row {
+    background-color:rgb(0, 217, 255);
 }
 
 .by-dean {
